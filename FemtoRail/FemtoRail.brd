@@ -65,8 +65,8 @@
 <wire x1="7.229553125" y1="24.755" x2="0.89098125" y2="24.755" width="0" layer="20"/>
 <wire x1="0.89098125" y1="24.755" x2="0" y2="23.86401875" width="0" layer="20" curve="90"/>
 <text x="1.27" y="1.27" size="1.778" layer="26" rot="MR90" align="bottom-center">-</text>
-<text x="6.35" y="1.27" size="1.778" layer="25" rot="R90" align="bottom-center">+</text>
-<text x="1.27" y="23.495" size="1.778" layer="26" rot="MR90" align="bottom-center">-</text>
+<text x="6.35" y="1.27" size="1.778" layer="26" rot="R90" align="bottom-center">+</text>
+<text x="1.27" y="23.495" size="1.778" layer="25" rot="MR90" align="bottom-center">-</text>
 <text x="6.985" y="23.495" size="1.778" layer="25" rot="R90" align="bottom-center">+</text>
 <text x="3.175" y="12.7" size="1.27" layer="25" rot="R270" align="bottom-center">FemtoRail</text>
 <text x="4.445" y="12.7" size="1.27" layer="26" rot="MR270" align="bottom-center">Femtoduino.com</text>
